@@ -5,3 +5,4 @@
 `Clone repository -> Install packages -> Run project`
 
 >Használt technológiák: React, Tailwind, Vite 
+[Tailwind](https://tailwindcss.com/)
