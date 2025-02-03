@@ -4,4 +4,4 @@
 ### Telepítés
 `Clone repository -> Install packages -> Run project`
 
-> [!IMPORTANT]Használt technológiák: React, Tailwind, Vite 
+>Használt technológiák: React, Tailwind, Vite 
